@@ -3,4 +3,4 @@ An Open-Source Terminal python app that shows the latest weather data avaiable f
 
 
 
-<img src="whatitlookslike.png" alt="What it looks like" width="48px" height="48px">
+<img src="whatitlookslike.png" alt="What it looks like" width="545px" height="460px">
