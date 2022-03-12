@@ -1,0 +1,9 @@
+Requirements :
+
+requests
+
+json
+
+datetime
+
+(they should already be in python as they are default modules)
